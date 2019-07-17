@@ -1,5 +1,7 @@
 # Lunchfinder
 
+#### Live Demo: https://lunchfinder.glitch.me 
+
 A Fully functional dynamic web page designed for finding the best restaurant options taking into account location, price and type of cuisine required by the customer. 
 
 ## Features
@@ -9,8 +11,23 @@ A Fully functional dynamic web page designed for finding the best restaurant opt
 
 ## Technologies Used: 
 
+
 - Zomato API 
 - Google Maps API   
 -	HTML5 
 - CSS3 
 - JavaScript 	
+
+## Screenshots
+
+
+| Home Page | 
+| -------|
+| <img src="./screenshots/1.png" width="1000"> |
+
+
+
+
+| Navbar with Features |
+| ---------------|
+| <img src="./screenshots/2.png" width="1000"> |
