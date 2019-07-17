@@ -1,7 +1,5 @@
 # Lunchfinder
 
-#### Live Demo: https://lunchfinder.glitch.me 
-
 A Fully functional dynamic web page designed for finding the best restaurant options taking into account location, price and type of cuisine required by the customer. 
 
 ## Features
@@ -26,8 +24,11 @@ A Fully functional dynamic web page designed for finding the best restaurant opt
 | <img src="./screenshots/1.png" width="1000"> |
 
 
-
-
 | Navbar with Features |
 | ---------------|
 | <img src="./screenshots/2.png" width="1000"> |
+
+
+#### Live Demo: https://lunchfinder.glitch.me 
+
+( Maps for development purposes only. API key not activated )
