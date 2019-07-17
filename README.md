@@ -4,7 +4,7 @@ A Fully functional dynamic web page designed for finding the best restaurant opt
 
 ## Features
 
-- Consumes data from an API listing more than 1.5 million restaurants across 10,000 cities globally.
+- Consumes data from an Zomatpo API listing more than 1.5 million restaurants across 10,000 cities globally.
 - Uses the Google Maps API to display markers for the nearby restaurants.
 
 ## Technologies Used: 
